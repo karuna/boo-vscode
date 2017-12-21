@@ -1,0 +1,26 @@
+{
+    "name": "boo",
+    "displayName": "Boo Syntax",
+    "description": "Boo syntax highlighting",
+    "version": "0.0.1",
+    "publisher": "karunamurti",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "boo",
+            "aliases": ["boo", "boo"],
+            "extensions": [".boo"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "boo",
+            "scopeName": "source.boo",
+            "path": "./syntaxes/boo.tmLanguage"
+        }]
+    }
+}
