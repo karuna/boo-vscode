@@ -1,10 +1,12 @@
 # Boo README
 
 Boo language syntax highlighting. Expect nothing fancy and a lot of bugs from this extension.
+Based on https://github.com/drslump/sublime-boo
 
 ## Features
 
 Syntax highlighting for Boo language.
+![Screnshot](images/screenshot.png)
 
 ## Requirements
 
