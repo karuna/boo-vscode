@@ -10,6 +10,10 @@
     "categories": [
         "Languages"
     ],
+    "license": "MIT",
+    "keywords": [
+        "boo"
+    ],
     "contributes": {
         "languages": [{
             "id": "boo",
@@ -22,5 +26,19 @@
             "scopeName": "source.boo",
             "path": "./syntaxes/boo.tmLanguage"
         }]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/karuna/boo-vscode.git"
+    },
+    "galleryBanner": {
+        "color": "#888888",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/karuna/boo-vscode",
+    "bugs": {
+        "url": "https://github.com/karuna/boo-vscode/issues",
+        "email": "karuna.murti@gmail.com"
+    },
+    "icon": "images/logo.png"
 }

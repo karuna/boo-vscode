@@ -1,7 +1,5 @@
-# Change Log
-All notable changes to the "boo" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- Initial release
+## [0.0.1] - 2017-12-24
+- First version of extension
+- Get syntax from existing tmLanguage
